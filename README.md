@@ -98,4 +98,4 @@ In general, nodes are used to represent objects and arcs to represent relationsh
 
 A Graph can be oriented, not-oriented, cyclic or acyclic (further the differences between them!).
 
-Here is implemented IA search alghoritms like DFS, BFS, Iterative Deepining, Dijkstra and A* (further all of them!).
+Here are implemented IA search alghoritms like DFS, BFS, Iterative Deepining, Dijkstra and A* (further all of them!).
