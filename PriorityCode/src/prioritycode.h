@@ -2,7 +2,7 @@
  * prioritycode.h
  *
  *  Created on: 17 apr 2020
- *      Author: pc
+ *      Author: Alessandro Palmiotta
  */
 
 #ifndef PRIORITYCODE_H_
