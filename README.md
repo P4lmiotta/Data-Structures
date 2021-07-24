@@ -9,7 +9,7 @@ Here is the list of data structures:
 - Queue;
 - HashTable;
 - N-ary Tree;
-- Binary Tree;
+- Binary Tree https://github.com/P4lmiotta/Data-Structures/tree/main/BTree;
 - Search Binary Tree;
 - Priority Queue;
 - Graph.
