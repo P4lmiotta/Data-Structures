@@ -2,7 +2,7 @@
  * graph.h
  *
  *  Created on: 17 apr 2020
- *      Author: pc
+ *      Author: Alessandro Palmiotta
  */
 
 #ifndef GRAPH_H_
@@ -12,12 +12,12 @@
 #include <climits>
 #include <cstring>
 #include <vector>
-#include "C:\Users\pc\Desktop\Strutture Dati\List\src\linked_list.h"
-#include "C:\Users\pc\Desktop\Strutture Dati\Stack\src\stack.h"
-#include "C:\Users\pc\Desktop\Strutture Dati\Queue\src\queue.h"
-#include "C:\Users\pc\Desktop\Strutture Dati\SBTree_Graph\src\sbtree.h"
-#include "C:\Users\pc\Desktop\Strutture Dati\HashTable\src\hash.h"
-#include "C:\Users\pc\Desktop\Strutture Dati\PriorityCode\src\prioritycode.h"
+#include "List\src\linked_list.h"
+#include "Stack\src\stack.h"
+#include "Queue\src\queue.h"
+#include "SBTree_Graph\src\sbtree.h"
+#include "HashTable\src\hash.h"
+#include "PriorityCode\src\prioritycode.h"
 
 using namespace std;
 
