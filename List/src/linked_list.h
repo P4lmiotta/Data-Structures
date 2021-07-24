@@ -2,7 +2,7 @@
  * linked_list.h
  *
  *  Created on: 17 apr 2020
- *      Author: pc
+ *      Author: Alessandro Palmiotta
  */
 
 #ifndef LINKED_LIST_H_
