@@ -4,15 +4,15 @@ This repo provides the basic requirements to understand and implement these data
 The data structures are written in C++ because for me this language has been my first OOP language and I started learn data structures with it.
 
 Here is the list of data structures:
-- Double Linked List;
-- Stack;
-- Queue;
-- HashTable;
-- N-ary Tree;
+- Double Linked List https://github.com/P4lmiotta/Data-Structures/tree/main/List;
+- Stack https://github.com/P4lmiotta/Data-Structures/tree/main/Stack;
+- Queue https://github.com/P4lmiotta/Data-Structures/tree/main/Queue;
+- HashTable https://github.com/P4lmiotta/Data-Structures/tree/main/HashTable;
+- N-ary Tree https://github.com/P4lmiotta/Data-Structures/tree/main/NTree;
 - Binary Tree https://github.com/P4lmiotta/Data-Structures/tree/main/BTree;
-- Search Binary Tree;
-- Priority Queue;
-- Graph.
+- Search Binary Tree https://github.com/P4lmiotta/Data-Structures/tree/main/SBTree;
+- Priority Queue https://github.com/P4lmiotta/Data-Structures/tree/main/PriorityCode;
+- Graph https://github.com/P4lmiotta/Data-Structures/tree/main/Graph.
 
 ## Double Linked List
 A List is a sequence of elements, even empty, of the same type.
