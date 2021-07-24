@@ -2,15 +2,15 @@
  * binarytree.h
  *
  *  Created on: 15 apr 2020
- *      Author: pc
+ *      Author: Alessandro Palmiotta
  */
 
 #ifndef BINARYTREE_H_
 #define BINARYTREE_H_
 
 #include <iostream>
-#include "C:\Users\pc\Desktop\Strutture Dati\Queue\src\queue.h"
-#include "C:\Users\pc\Desktop\Strutture Dati\List\src\linked_list.h"
+#include "Queue\src\queue.h"
+#include "List\src\linked_list.h"
 
 template<class T>
 class BTree;
