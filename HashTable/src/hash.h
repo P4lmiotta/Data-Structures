@@ -2,7 +2,7 @@
  * hash.h
  *
  *  Created on: 19 apr 2020
- *      Author: pc
+ *      Author: Alessandro Palmiotta
  */
 
 #ifndef HASH_H_
@@ -11,7 +11,7 @@
 #pragma once
 #include <iostream>
 #include <cstring>
-#include "C:\Users\pc\Desktop\Strutture Dati\List\src\linked_list.h"
+#include "List\src\linked_list.h"
 
 using namespace std;
 
