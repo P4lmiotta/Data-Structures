@@ -2,7 +2,7 @@
  * queue.h
  *
  *  Created on: 14 apr 2020
- *      Author: pc
+ *      Author: Alessandro Palmiotta
  */
 
 #ifndef QUEUE_H_
