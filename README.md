@@ -11,7 +11,6 @@ Here is the list of data structures:
 - N-ary Tree;
 - Binary Tree;
 - Search Binary Tree;
-- Priority QUeue;
+- Priority Queue;
 - Graph.
 
-Later I will give an explanation of the implementation of each of them.
