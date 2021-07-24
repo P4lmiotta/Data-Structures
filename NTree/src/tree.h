@@ -2,14 +2,14 @@
  * tree.h
  *
  *  Created on: 14 apr 2020
- *      Author: pc
+ *      Author: Alessandro Palmiotta
  */
 
 #ifndef TREE_H_
 #define TREE_H_
 
-#include "C:\Users\pc\Desktop\Strutture Dati\List\src\linked_list.h"
-#include "C:\Users\pc\Desktop\Strutture Dati\Queue\src\queue.h"
+#include "List\src\linked_list.h"
+#include "Queue\src\queue.h"
 #include "iostream"
 
 template<class T>
