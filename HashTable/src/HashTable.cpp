@@ -1,13 +1,13 @@
 //============================================================================
 // Name        : HashTable.cpp
-// Author      : 
+// Author      : Alessandro Palmiotta
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
 #include <iostream>
-#include "C:\Users\pc\Desktop\Strutture Dati\HashTable\src\hash.h"
+#include "HashTable\src\hash.h"
 using namespace std;
 
 int main() {
